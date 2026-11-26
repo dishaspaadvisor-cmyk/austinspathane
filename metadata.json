@@ -1,0 +1,6 @@
+{
+  "name": "Austin Spa Thane",
+  "description": "Austin Spa Thane — Professional spa, therapeutic massage, and botanical wellness centre near Teen Hath Naka and Tip Top Plaza on LBS Marg, Thane West.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
